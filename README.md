@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java Developer<br>- Desenvolvedor<br>- Cursando Analise e Desenvolvimento de Sistemas</p>
+<p align="left">- Analista<br>- Desenvolvedor<br>- Cursando Analise e Desenvolvimento de Sistemas</p>
 
 ###
 
