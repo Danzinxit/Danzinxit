@@ -23,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
