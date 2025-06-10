@@ -17,6 +17,7 @@
 ## 🚀 Tecnologias que utilizo
 
 <div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/images/supabase-logo-icon.svg" height="40" alt="Supabase logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
