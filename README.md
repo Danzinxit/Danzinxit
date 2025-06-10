@@ -22,12 +22,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwindcss" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
 </div>
 
