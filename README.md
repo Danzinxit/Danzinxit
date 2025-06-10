@@ -1,14 +1,14 @@
 <h1 align="center">Olá! 👋 Eu sou o Daniel</h1>
 
 <p align="center">
-  Analista • Desenvolvedor • Estudante de Análise e Desenvolvimento de Sistemas
+  Desenvolvedor • Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 👨‍💼 Atualmente atuando como analista e desenvolvedor
+- 👨‍💼 Atualmente atuando como Desenvolvedor Full Stack na TWT INFO
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 💡 Apaixonado por tecnologia, inovação e resolução de problemas com código
 
