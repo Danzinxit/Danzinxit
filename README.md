@@ -18,17 +18,16 @@
 
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/images/supabase-logo-icon.svg" height="40" alt="Supabase logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=composer" height="40" alt="Composer" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwindcss" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/images/supabase-logo-icon.svg" height="40" alt="Supabase logo" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />
 </div>
 
 ---
